@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
   <center>
-    <h1 style="background-color:DodgerBlue;"><center>New user Register for DevOps </center></h1>
+    <h1>New user Register for DevOps </h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
