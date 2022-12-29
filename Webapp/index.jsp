@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<title>
-			Welcome Page
+			Welcome Devops Demo Page
 		</title>
 		<link rel="stylesheet" type="text/css" href="style.css" />
 	</head>
@@ -12,7 +12,7 @@
 			
 				<div id="logo">
 					<h1>
-						Payment Billing System
+						Payment Billing System DEMO
 					</h1>
 				</div>	
 		</div>
